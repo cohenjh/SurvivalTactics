@@ -1,1 +1,1 @@
-100
+[version]100[/version]
